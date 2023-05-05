@@ -19,9 +19,6 @@ public class CalculateArea {
                 calculateRectangleArea();
             } else if (choice == 3) {
                 calculateTriangleArea();
-
-
-                
             } else if (choice == 4) {
                 System.out.println("Thanks for calculating!");
             }
