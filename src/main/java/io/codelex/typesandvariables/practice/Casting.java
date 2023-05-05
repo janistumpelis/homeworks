@@ -13,6 +13,7 @@ public class Casting {
         double d = 4;
         float e = 5;
 
+        //new comment
         //fixme - should be 15 :| 
         //int sum = a + b + c + d + e;
         //System.out.println(sum);
